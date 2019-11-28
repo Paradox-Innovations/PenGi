@@ -1,5 +1,5 @@
 # PenGi
-PenGi SP2 Mod - A Uberfox 2.0 
+PenGi SP2 Mod - An Uberfox 2.0 
 
 
 --------------Developers---------------
